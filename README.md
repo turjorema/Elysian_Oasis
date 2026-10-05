@@ -199,7 +199,7 @@ Possible future improvements include:
 
 ## 👨‍💻 Author
 
-**Dare_Devil**
+**4RCH-M4G**
 
 Computer Science & Engineering Student
 Interested in Web Development, Networking and Cybersecurity.
