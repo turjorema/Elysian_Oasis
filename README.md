@@ -203,7 +203,3 @@ Possible future improvements include:
 
 Computer Science & Engineering Student
 Interested in Web Development, Networking and Cybersecurity.
-
-## 📄 License
-
-This project is created for educational and portfolio purposes.
